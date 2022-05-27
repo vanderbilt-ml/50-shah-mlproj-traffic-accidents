@@ -11,7 +11,7 @@ Each record is a reported traffic accident. Check the below descriptions for mor
 
 ### **Data Dictionary**
 
-Field Name	|	Description	|	Format
+Feature	|	Description	|	Type
 -------------	|	-------------	|	-------------
 Accident Number	|	MNPD incident number for the crash	|	Plain Text
 Date and Time	|	Date and time of the accident	|	Date & Time
