@@ -42,3 +42,7 @@ Mapped Location	|	Combined latitude and longitude for the accident for mapping p
 ## Performance metrics
 
 If successfull, the project will break down accident frequency by day of week and hour of day. One can also identify, when do accidents occur most frequently.
+
+## Peer Comments
+
+This is a great topic. I think the findings from this project will be really interesting. 
