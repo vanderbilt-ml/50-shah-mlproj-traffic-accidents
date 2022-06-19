@@ -1,9 +1,0 @@
-Feature	|	Description	|	Type
--------------	|	-------------	|	-------------
-AccidentNumber	|	MNPD incident number for the crash	|	Plain Text
-AccidentDate	|	Date of the accident	|	Date & Time
-Injury	|	Injury reported	|	CheckBox
-CollisionType	|	Full text description of the collision type	|	Plain Text
-Weather	|	Full text description of the weather conditions	|	Plain Text
-Illumination	|	Full text description of the lighting conditions	|	Plain Text
-Precinct	|	Assigned precinct in which the accident occurred	|	Plain Text
