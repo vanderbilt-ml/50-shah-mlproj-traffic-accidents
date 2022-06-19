@@ -16,9 +16,6 @@ Feature	|	Description	|	Type
 AccidentNumber	|	MNPD incident number for the crash	|	Plain Text
 AccidentDate	|	Date of the accident	|	Date & Time
 Injury	|	Injury reported	|	CheckBox
-Fatality	|	Fatality reported	|	CheckBox
-PropertyDamage	|	Indicates if there was property damage as a result of the accident	|	Checkbox
-HitAndRun	|	Indicates if the accident was a hit and run	|	Checkbox
 CollisionType	|	Full text description of the collision type	|	Plain Text
 Weather	|	Full text description of the weather conditions	|	Plain Text
 Illumination	|	Full text description of the lighting conditions	|	Plain Text
